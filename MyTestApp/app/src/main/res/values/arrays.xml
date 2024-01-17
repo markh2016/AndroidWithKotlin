@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+
+    <string-array name="messages">
+        <item> Hi  %s </item>
+        <item> I am testing capabilities </item>
+        <item> Its cold tonight</item>
+        <item> See one step at a time</item>
+        <item> Now I am learning Lots and Lots </item>
+        <item> Its not easy </item>
+        <item> But Im getting there</item>
+        <item> Now look at what I can do </item>
+        <!-- Add more messages as needed -->
+    </string-array>
+
+    <array name="colors">
+        <item>@color/color1</item>
+        <item>@color/color2</item>
+        <item>@color/color3</item>
+        <item>@color/color4</item>
+        <item>@color/color5</item>
+        <item>@color/color6</item>
+        <!-- Add more colors as needed -->
+    </array>
+
+
+</resources>
+
